@@ -1,0 +1,28 @@
+body {
+    background-color : #efeffa;
+    color : #0b2b2e;
+}
+h1,h2,h3{
+    font-family : 'Segoe-UI', Tahoma, Geneva
+}
+h1{
+    font-size : 2em;
+    background-color : lightgrey;
+}
+h2,h3,h4,h5{
+    font-size:1.5em;
+}
+div{
+    background-color: rgb(248, 252, 255);
+}
+p{
+    font-family:Georgia,'Times New Roman';
+    font-size:1.2em;
+}
+em{
+    background-color: beige;
+    color:brown;
+}
+hr{
+    background-color: chocolate;
+}
